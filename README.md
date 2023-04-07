@@ -1,7 +1,8 @@
 # Presentation
 Made by - 
-Aman 
-Ritik 
-Aryan 
-Pratham
+Aman,
+Ritik, 
+Aryan, 
+Pratham and 
 Tanisha
+
